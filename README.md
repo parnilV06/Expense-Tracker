@@ -6,8 +6,8 @@ A full-stack expense tracking dashboard built with React, CSS, Express, and Mong
 
 Update these after deployment:
 
-- Frontend: `https://expense-tracker-six-iota-pivj289u41.vercel.app/`
-- Backend API: `https://expense-tracker-z1o0.onrender.com/`
+- Frontend: https://expense-tracker-six-iota-pivj289u41.vercel.app/
+- Backend API: https://expense-tracker-z1o0.onrender.com/
 
 ## Core Features
 
